@@ -63,7 +63,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarrazer24&theme=bear&hide_border=false&include_all_commits=true&count_private=true" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarrazer24&theme=bear&hide_border=false" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarrazer24&theme=bear&hide_border=false&layout=compact" />
 </p>
 
@@ -81,5 +84,17 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sarrazer24&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sarrazer24&icon=0&color=1" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

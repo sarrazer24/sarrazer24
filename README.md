@@ -81,17 +81,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sarrazer24&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sarrazer24&icon=0&color=1" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

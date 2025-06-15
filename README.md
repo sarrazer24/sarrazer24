@@ -101,9 +101,5 @@ me = Sarra()
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sarrazer24/count.svg" alt="Visitor counter" />
-</div>
-
 <p align="center">
   <i>✨ "She coded her dreams into

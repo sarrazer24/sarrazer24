@@ -2,13 +2,13 @@
   <img height="240" src="https://i.postimg.cc/7YzGnsXw/code-pc-with-sunset.gif" alt="Sarra coding at sunset" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF9EB5&center=true&vCenter=true&width=500&lines=🌸+Hello%2C+I'm+Sarra;💻+Full-Stack+Developer;🎀+UI%2FUX+Enthusiast;✨+Turning+Ideas+Into+Reality" alt="Typing animation" />
-</h1>
-
 <div align="center">
 
-  <!-- 🌷 Greeting Message -->
+  <h1>🌸 Hello, I'm Sarra!</h1>
+  <h3>💻 Full-Stack Developer &nbsp;|&nbsp; 🎀 UI/UX Enthusiast &nbsp;|&nbsp; ✨ Turning Ideas Into Reality</h3>
+
+  <br>
+
   <b>✨ Welcome to my GitHub space! I'm thrilled to have you here.<br>
   Explore my projects, connect, and let's create something amazing together! ✨</b>
   <br><br>

@@ -2,9 +2,6 @@
   <img height="240" src="https://i.postimg.cc/7YzGnsXw/code-pc-with-sunset.gif" alt="Sarra coding at sunset" style="border-radius: 18px; box-shadow: 0 4px 24px #ff9eb555;" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF9EB5&center=true&vCenter=true&width=500&lines=🌸+Hello%2C+I'm+Sarra;💻+Full-Stack+Developer;🎀+UI%2FUX+Enthusiast;✨+Turning+Ideas+Into+Reality" alt="Typing animation" />
-</h1>
 
 <div align="center" style="margin-bottom: 16px;">
   <a href="https://sarra-zerguerras-portfolio.vercel.app/" target="_blank">

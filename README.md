@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="240" src="https://i.postimg.cc/7YzGnsXw/code-pc-with-sunset.gif" alt="Sarra coding at sunset" style="border-radius: 18px; box-shadow: 0 4px 24px #ff9eb555;" />
+  <img height="240" src="https://i.postimg.cc/7YzGnsXw/code-pc-with-sunset.gif" alt="Sarra coding at sunset" />
 </div>
 
 <h1 align="center">
@@ -9,11 +9,9 @@
 <div align="center">
 
   <!-- 🌷 Greeting Message -->
-  <h3>
-    <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="24" /> 
-    Welcome to my GitHub space! I'm thrilled to have you here. Explore my projects, connect, and let's create something amazing together!
-    <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="24" />
-  </h3>
+  <b>✨ Welcome to my GitHub space! I'm thrilled to have you here.<br>
+  Explore my projects, connect, and let's create something amazing together! ✨</b>
+  <br><br>
 
   <a href="https://sarra-zerguerras-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-FF9EB5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />

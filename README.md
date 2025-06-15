@@ -2,8 +2,19 @@
   <img height="240" src="https://i.postimg.cc/7YzGnsXw/code-pc-with-sunset.gif" alt="Sarra coding at sunset" style="border-radius: 18px; box-shadow: 0 4px 24px #ff9eb555;" />
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF9EB5&center=true&vCenter=true&width=500&lines=🌸+Hello%2C+I'm+Sarra;💻+Full-Stack+Developer;🎀+UI%2FUX+Enthusiast;✨+Turning+Ideas+Into+Reality" alt="Typing animation" />
+</h1>
 
-<div align="center" style="margin-bottom: 16px;">
+<div align="center">
+
+  <!-- 🌷 Greeting Message -->
+  <h3>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="24" /> 
+    Welcome to my GitHub space! I'm thrilled to have you here. Explore my projects, connect, and let's create something amazing together!
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="24" />
+  </h3>
+
   <a href="https://sarra-zerguerras-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-FF9EB5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -95,5 +106,4 @@ me = Sarra()
 </div>
 
 <p align="center">
-  <i>✨ "She coded her dreams into reality" ✨</i>
-</p>
+  <i>✨ "She coded her dreams into

@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sarra</h1>
+<h1 align="center">
+  Hi 👋, I'm Sarra
+  <img src="https://i.imgur.com/fHqf8P4.gif" alt="Hi GIF" width="50" />
+</h1>
 <h3 align="center">Passionate about mobile dev, backend logic, and elegant UI/UX</h3>
 
 ---

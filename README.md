@@ -1,74 +1,94 @@
-<h1 align="center">
-  Hi 👋, I'm Sarra
-</h1>
-<h3 align="center">Passionate about mobile dev, backend logic, and elegant UI/UX</h3>
+<div align="center">
+  <img height="300" src="https://i.postimg.cc/7YzGnsXw/code-pc-with-sunset.gif" alt="Coding at sunset" />
+</div>
 
-<p align="center">
-  <img src="https://i.postimg.cc/vZw2HKDK/desk-with-lamp.gif" alt="desk with lamp" width="300" />
-</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/>! I'm Sarra</h1>
+<h3 align="center">Passionate Mobile & Full-Stack Developer</h3>
+<div align="center">Turning ideas into elegant digital solutions</div>
+<div align="center">Coding with purpose and a touch of creativity ✨</div>
 
----
+<br clear="both">
 
-🔭 I’m currently working on **Voice Emotion Recognition AI – Detect Emotions from Audio**  
-🌱 I’m currently learning **AI/ML fundamentals, voice-based emotion recognition, and Tailwind CSS**  
-🤝 I’m looking for help with **Voice Emotion Recognition AI – Detect Emotions from Audio**  
-💬 Ask me about **Flutter • Node.js • MySQL • UI/UX • React • Springboot**  
-📫 Reach me at: **ks.zerguerras@esi-sba.dz**  
-⚡ Fun fact: **I debug better with chocolate 🍫 and a sense of humor 😄**
+## 🧑‍💻 About Me
 
----
+- 🌱 Currently mastering **AI/ML, Voice Emotion Recognition, and Tailwind CSS**
+- 🔭 Building **Voice Emotion Recognition AI – Detect Emotions from Audio**
+- 💡 Passionate about **Flutter • Node.js • MySQL • UI/UX • React • Springboot**
+- 🍫 Debugging fuel: **Chocolate + humor = bug-free code**
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/sarra-zerguerras-1b0978195" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/sarra.zerguerras" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+- 📫 Reach me: **ks.zerguerras@esi-sba.dz**
+- 🤝 Open for collaborations on innovative projects
 
----
+<br clear="both">
 
-💻 **Tech Stack:**
-<!-- (tech badges unchanged...) -->
-<!-- Keep all your original badges for frontend, backend, mobile, tools, etc. -->
+## 🛠️ Tech Stack
 
----
+### 📱 Mobile Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" />
+</div>
+
+### 🌐 Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+</div>
+
+### 🎨 Frontend & Design
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+</div>
+
+### ⚙️ DevOps & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+</div>
+
+<br clear="both">
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarrazer24&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarrazer24&show_icons=true&locale=en&theme=nightowl" alt="GitHub Stats" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarrazer24&theme=nightowl" alt="GitHub Streak" /></p>
+</div>
+
+<br clear="both">
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/sarra-zerguerras-1b0978195" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <img width="15" />
+  <a href="https://instagram.com/sarra.zerguerras" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarrazer24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarrazer24&theme=bear&hide_border=false&include_all_commits=true&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarrazer24&theme=bear&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarrazer24&theme=bear&hide_border=false&layout=compact" />
+  <i>⚡ "First, solve the problem. Then, write the code." - John Johnson ⚡</i>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarrazer24&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
-### ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sarrazer24&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sarrazer24&icon=0&color=1" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

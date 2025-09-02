@@ -5,7 +5,9 @@
 <div align="center">
 
   <h1>🌸 Hello, I'm Sarra!</h1>
-  <h3>💻 Full-Stack Developer &nbsp;|&nbsp; 🎀 UI/UX Enthusiast &nbsp;|&nbsp; ✨ Turning Ideas Into Reality</h3>
+  <h3>💻 Full-Stack Developer &nbsp;|&nbsp; 🎀 AI & Data Science Student &nbsp;|&nbsp; ✨  UI/UX Designer
+
+</h3>
 
   <br>
 

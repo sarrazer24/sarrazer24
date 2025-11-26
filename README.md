@@ -26,7 +26,6 @@ class Sarra:
     def __init__(self):
         self.passion = "Creating beautiful, functional code"
         self.skills = ["Flutter", "React", "Node.js", "AI/ML"]
-        self.current_focus = "Voice Emotion Recognition AI"
         self.fun_fact = "Debugs better with chocolate 🍫"
     
     def say_hello(self):
@@ -34,32 +33,6 @@ class Sarra:
 
 me = Sarra()
 ```
-
----
-
-## My Work
-
-<div align="center">
-
-Check out my [repositories](https://github.com/sarrazer24?tab=repositories) to see my latest projects and contributions.
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/sarra-zerguerras-1b0978195">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ks.zerguerras@esi-sba.dz">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sarra-zerguerras-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
 
 ---
 

@@ -41,13 +41,7 @@ me = Sarra()
 
 <div align="center">
 
-### 📌 Pinned Repositories
-
-<a href="https://github.com/sarrazer24">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarrazer24&repo=your-repo-name&theme=default&hide_border=true" />
-</a>
-
-*More projects available on my [GitHub profile](https://github.com/sarrazer24)*
+Check out my [repositories](https://github.com/sarrazer24?tab=repositories) to see my latest projects and contributions.
 
 </div>
 

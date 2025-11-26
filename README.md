@@ -34,9 +34,3 @@ class Sarra:
 me = Sarra()
 ```
 
----
-
-<div align="center">
-  <i>Open to collaborations and new opportunities</i>
-</div>
-```

@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="240" src="https://i.postimg.cc/7YzGnsXw/code-pc-with-sunset.gif" alt="Sarra coding at sunset" />
 </div>
@@ -8,8 +7,8 @@
   <h3>Full-Stack Developer | AI & Data Science Student | UI/UX Designer</h3>
 
   <br>
-
-  Welcome to my GitHub profile. I'm passionate about creating elegant solutions and continuously learning. Feel free to explore my projects and reach out for collaboration.
+  
+  Passionate about building impactful solutions through code. Currently exploring AI and creating seamless user experiences.
   
   <br><br>
 
@@ -27,7 +26,7 @@ class Sarra:
     def __init__(self):
         self.passion = "Creating beautiful, functional code"
         self.skills = ["Flutter", "React", "Node.js", "AI/ML"]
-        self.current_project = "Voice Emotion Recognition AI"
+        self.current_focus = "Voice Emotion Recognition AI"
         self.fun_fact = "Debugs better with chocolate 🍫"
     
     def say_hello(self):
@@ -38,38 +37,17 @@ me = Sarra()
 
 ---
 
-## GitHub Activity
+## My Work
 
 <div align="center">
 
-### 📊 Coding Journey
+### 📌 Pinned Repositories
 
 <a href="https://github.com/sarrazer24">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarrazer24&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarrazer24&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarrazer24&repo=your-repo-name&theme=default&hide_border=true" />
 </a>
 
-<br>
-
-### 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarrazer24&theme=default&hide_border=true&fire=DD2727" />
-
-<br>
-
-### 🗓️ Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarrazer24&theme=github&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" width="100%" />
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-*More projects coming soon! Currently working on exciting new developments.*
+*More projects available on my [GitHub profile](https://github.com/sarrazer24)*
 
 </div>
 
@@ -92,6 +70,6 @@ me = Sarra()
 ---
 
 <div align="center">
-  <i>Thanks for visiting! Feel free to explore my repositories.</i>
+  <i>Open to collaborations and new opportunities</i>
 </div>
 ```

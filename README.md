@@ -1,5 +1,4 @@
 
-```
 <div align="center">
   <img height="240" src="https://i.postimg.cc/7YzGnsXw/code-pc-with-sunset.gif" alt="Sarra coding at sunset" />
 </div>

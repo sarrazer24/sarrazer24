@@ -38,62 +38,39 @@ me = Sarra()
 
 ---
 
-## Tech Stack
+## GitHub Activity
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Databases & DevOps</b></td>
-    <td align="center"><b>Design & Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### 📊 Coding Journey
+
+<a href="https://github.com/sarrazer24">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarrazer24&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarrazer24&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</a>
+
+<br>
+
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarrazer24&theme=default&hide_border=true&fire=DD2727" />
+
+<br>
+
+### 🗓️ Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarrazer24&theme=github&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" width="100%" />
 
 </div>
 
 ---
 
-## GitHub Stats
+## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/sarrazer24">
-    <img src="https://github-readme-stats.vercel.app/api?username=sarrazer24&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" width="60%" />
-  </a>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarrazer24&layout=compact&hide_border=true&title_color=000000&text_color=000000" width="60%" />
+
+*More projects coming soon! Currently working on exciting new developments.*
+
 </div>
 
 ---
@@ -110,5 +87,11 @@ me = Sarra()
   <a href="https://sarra-zerguerras-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <i>Thanks for visiting! Feel free to explore my repositories.</i>
 </div>
 ```

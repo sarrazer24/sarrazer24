@@ -1,133 +1,124 @@
-<div align="center">
-  <img height="240" src="https://i.postimg.cc/7YzGnsXw/code-pc-with-sunset.gif" alt="Sarra coding at sunset" />
-</div>
+ <div align="center">
 
-<div align="center">
-  <h1>Hi, I'm Sarra 👋</h1>
-  <h3>AI & Data Science Engineering Student · AI Safety & LLM Security · Full-Stack Developer</h3>
+  <img height="200" src="https://i.postimg.cc/7YzGnsXw/code-pc-with-sunset.gif" alt="Coding at sunset" />
 
-  <p>
-    Final-year engineering student at <b>ESI-SBA</b>, interested in making AI systems <b>secure and trustworthy</b>.<br>
-    I also build full-stack products and generative models.<br>
-    <b>🔎 Seeking a PFE / Master's 2 thesis research opportunity, starting January 2027.</b>
-  </p>
+  # Sarra Zerguerras
 
-  <a href="https://sarra-zerguerras-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ks.zerguerras@esi-sba.dz">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  **AI & Data Science Engineering Student | AI Safety & Trustworthy AI**
+
+  Final-year engineering student at **ESI-SBA, Algeria**.
+
+  Interested in AI safety, LLM security, machine learning research, and generative models.
+
+  **Currently seeking a funded research internship / engineering thesis opportunity — January 2027.**
+
+  [Portfolio](https://sarra-zerguerras-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sarra-zerguerras-1b0978195/) · [Email](mailto:ks.zerguerras@esi-sba.dz)
+
 </div>
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
-- 🛡️ **AI Safety & Trustworthy AI**
-- 🔐 **LLM & AI Agent Security**, especially indirect prompt injection and tool-use guardrails
-- 🧠 **Generative models** (diffusion, conditional GANs) and **NLP**
+- **AI Safety & Trustworthy AI:** Model reliability, robustness, and evaluation.
+- **LLM & AI Agent Security:** Prompt injection, tool-use security, and defensive mechanisms.
+- **AI Evaluation:** Benchmark design, experimental methodologies, and safety assessment.
+- **Generative AI:** Diffusion models, multimodal learning, and generative modeling.
+- **Natural Language Processing:** Multilingual NLP and language model behavior.
 
-## 🚀 What I'm Working On
+## Current Work
 
-- **Indirect Prompt Injection & Tool-Use Guardrail Sandbox**: a controlled environment to test attacks on tool-using LLM agents and measure how well defensive guardrails hold up.
-- **Sign Language Production**: text to sign-language video with 3D skeletal poses and diffusion models, using transformer text conditioning (cross-attention and contrastive alignment) with no intermediate gloss.
+**Indirect Prompt Injection & AI Agent Security**
 
-## 📁 Selected Projects
+Developing a controlled sandbox for studying indirect prompt injection attacks against tool-using LLM agents and evaluating defensive mechanisms, authorization boundaries, and guardrail effectiveness.
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🛡️ **Prompt Injection & Guardrail Sandbox** | Evaluates indirect prompt injection against LLM agents, with and without guardrails | Python, LLM agents |
-| 🤟 **Sign Language Production** | Text-to-sign generation with diffusion models | Python, Diffusion, Transformers |
-| 🔗 **Malicious URL Detector** | ML classifiers for phishing, malware, spam and defacement URLs | Python, scikit-learn |
-| 📝 **Smart Notes Generator** | Turns audio into structured notes and summaries | Python, NLP, LLMs |
-| 🎨 **Image Colorization** | Grayscale to color with a conditional GAN | Python, Deep Learning |
-| 📈 **Market Basket Analysis** | Product recommendations from association rules, with an MLOps workflow | Python, MLOps |
-| 🎯 **Job Skills Gap Analyzer** | Compares your skills against job requirements | Streamlit, ML |
+[Repository](https://github.com/sarrazer24/indirect-injection-sandbox)
 
-> Replace the project names with links to your repos.
+**Sign Language Production**
 
-## 🛠️ Tech Stack
+Working on text-to-sign-language generation through skeletal pose representations and diffusion-based video synthesis, exploring transformer conditioning and gloss-free generation.
 
-**AI & ML**
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B5563?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-4B5563?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-4B5563?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-4B5563?style=flat-square)
-![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-4B5563?style=flat-square)
-![GANs](https://img.shields.io/badge/Conditional_GANs-4B5563?style=flat-square)
-![MLOps](https://img.shields.io/badge/MLOps-4B5563?style=flat-square)
+[Repository](https://github.com/sarrazer24/sign-language-production)
 
-**Languages**
+## Selected Projects
+
+| Project | Description | Technologies |
+|:--|:--|:--|
+| [Indirect Injection Sandbox](https://github.com/sarrazer24/indirect-injection-sandbox) | Evaluation of prompt injection and AI agent defenses | Python, LLMs |
+| [Sign Language Production](https://github.com/sarrazer24/sign-language-production) | Text-to-sign generation using skeletal poses | Python, PyTorch |
+| Malicious URL Detection | Machine learning for malicious URL classification | Python, Scikit-learn |
+| Reinforcement Learning | DQN and policy-gradient agents for sequential decision-making | Python, PyTorch |
+| Image Colorization | Conditional GAN-based image colorization | Python, Deep Learning |
+| Market Basket Analysis | Association rules and recommendation workflows | Python, MLOps |
+| Smart Notes Generator | Audio transcription and structured summarization | Python, NLP |
+
+## Technical Writing
+
+- [Generalized Policy Iteration in a Tiny GridWorld: Comparing Two Q-Learning Update Schedules](https://sarra-zerguerras-portfolio.vercel.app/blog)
+- [Don't Predict the Action, Imagine the Future: Navigation as Video Generation](https://sarra-zerguerras-portfolio.vercel.app/blog)
+
+More on my [portfolio](https://sarra-zerguerras-portfolio.vercel.app/).
+
+## Technical Skills
+
+**Machine Learning & AI**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Programming**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Data Engineering & Analytics**
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+**Data Engineering & Databases**
+
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Web & Mobile**
+**Development & Tools**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 👩‍💻 About Me
+## Education & Certifications
 
-```python
-class Sarra:
-    def __init__(self):
-        self.education = "Engineering Degree in AI & Data Science, ESI-SBA (2027)"
-        self.research = ["AI Safety", "LLM Security", "AI Agent Security", "Trustworthy AI"]
-        self.skills = ["Deep Learning", "NLP", "Generative AI", "Full-Stack", "Data Engineering"]
-        self.languages = {"Arabic": "Native", "French": "B2", "English": "C2"}
-        self.certifications = ["Oracle Generative AI Professional", "AWS Concepts"]
-        self.looking_for = "PFE / Master's 2 research thesis, January 2027"
-        self.fun_fact = "Debugs better with chocolate 🍫"
+**Engineering Degree in Artificial Intelligence & Data Science**
 
-    def say_hello(self):
-        print("Let's build AI that's both powerful and safe.")
+École Supérieure en Informatique de Sidi Bel Abbès (ESI-SBA), Algeria  
+2022–2027 (Expected)
 
-me = Sarra()
-me.say_hello()
-```
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- Oracle AI Fundamentals
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarrazer24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarrazer24&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sarrazer24&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarrazer24&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
 </div>
 
-## 🤝 Let's Connect
-
-I'm looking for research supervisors and labs working on **AI safety, LLM/agent security and trustworthy AI**. If that's you, or you're working on something in this space, I'd love to hear from you.
-
-📧 ks.zerguerras@esi-sba.dz · 🌐 [Portfolio](https://sarra-zerguerras-portfolio.vercel.app/)
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer" alt="footer" />
+
+  Interested in research collaborations and opportunities in **AI safety, trustworthy AI, and machine learning**.
+
+  [Portfolio](https://sarra-zerguerras-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sarra-zerguerras-1b0978195/) · [Email](mailto:ks.zerguerras@esi-sba.dz)
+
 </div>
